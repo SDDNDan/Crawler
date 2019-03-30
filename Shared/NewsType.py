@@ -300,8 +300,6 @@ newsType['Monden'] = ['andreea-marin',
                       'justin-bieber',
                       'constantin-dinulescu',
                       'gala-gopo']
-
-newsType['familie regala'] = ['printesei']
                                 
 newsType['rezultate meritorii'] =['leul-de-aur',
                                     'titlul-de',
